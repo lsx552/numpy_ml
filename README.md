@@ -4,3 +4,5 @@
   1.K-means
  
   2.LinearRegression
+  
+  3.LogisticRegression
