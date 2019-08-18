@@ -6,5 +6,7 @@
   2.LinearRegression
   
   3.LogisticRegression
+  
+  4.Neural Network
 
 ...
